@@ -1,0 +1,1 @@
+A fork of the lessify-wp plugin that works with the new LESS syntax that Bootstrap 3 uses.
